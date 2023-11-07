@@ -92,11 +92,11 @@ hobbies: ["Gaming", "Cinema", "travelling", "Comedy"]
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikforCoding&show_icons=true&theme=tokyonight)
 -->
-
+<!--
 <picture>
   <img alt="github-snake" src="github-contribution-grid-snake.svg"/>
 </picture>
-  
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=500&section=footer"/>
 </p>
