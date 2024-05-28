@@ -50,7 +50,7 @@ organization:
     "Cloud Native Hooghly core team member"
   ]
 currently_learning: ["Go Development, Docker, Kubernetes, Databases"]
-2023 Goals: ["Create back end Golang Projects and learn at least 5 new Technologies."]
+2024 Goals: ["Create back end Golang Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "travelling", "Comedy"]
 ```
   
