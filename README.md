@@ -50,6 +50,15 @@ organization:
   [
     "Cloud Native Hooghly core team member"
   ]
+recent achievements:
+  [
+    "KCNA certified"
+  ]
+projects:
+  [
+    "LinkSnap: https://github.com/PratikforCoding/linksnap",
+    "BusoFact: https://github.com/PratikforCoding/BusoFact"
+  ]
 currently_learning: ["Go Development, Docker, Kubernetes, Databases"]
 2025 Goals: ["Create back end Golang Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "travelling", "Comedy"]
