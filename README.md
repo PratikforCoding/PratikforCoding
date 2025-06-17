@@ -36,13 +36,14 @@ located_in: Kolkata, India
 current_job: Go developer, DevOps Enthusiast
 education:
   [
-    "Bachelor's in Computer Science"
+    "Master of Computer Application"
   ]
 fields_of_interests:
   [
     "Backend Development",
     "Machine Learning",
     "DevOps",
+    "Cloud Computing",
     "Block-chain"
   ]
 organization:
@@ -50,7 +51,7 @@ organization:
     "Cloud Native Hooghly core team member"
   ]
 currently_learning: ["Go Development, Docker, Kubernetes, Databases"]
-2024 Goals: ["Create back end Golang Projects and learn at least 5 new Technologies."]
+2025 Goals: ["Create back end Golang Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "travelling", "Comedy"]
 ```
   
